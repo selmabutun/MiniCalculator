@@ -1,0 +1,7 @@
+D:\ISYAZILIM\MiniCalculator\MiniCalculator\bin\Debug\MiniCalculator.exe.config
+D:\ISYAZILIM\MiniCalculator\MiniCalculator\bin\Debug\MiniCalculator.exe
+D:\ISYAZILIM\MiniCalculator\MiniCalculator\bin\Debug\MiniCalculator.pdb
+D:\ISYAZILIM\MiniCalculator\MiniCalculator\obj\Debug\MiniCalculator.csproj.AssemblyReference.cache
+D:\ISYAZILIM\MiniCalculator\MiniCalculator\obj\Debug\MiniCalculator.csproj.CoreCompileInputs.cache
+D:\ISYAZILIM\MiniCalculator\MiniCalculator\obj\Debug\MiniCalculator.exe
+D:\ISYAZILIM\MiniCalculator\MiniCalculator\obj\Debug\MiniCalculator.pdb
